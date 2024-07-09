@@ -31,9 +31,9 @@ This repository contains a sophisticated Java Swing application integrated with 
 ## Getting Started
 
 *   As prerequisites you should have,
-    *    your mysql environment set up  and server running.
-    *    Java Development Kit (JDK)**: Install JDK 11 or higher from [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
-    *    Integrated Development Environment (IDE)**: Use IntelliJ IDEA, Eclipse, or NetBeans.
+    *    your **mysql** environment set up  and server running.
+    *    **Java Development Kit (JDK)**: Install JDK 11 or higher from [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
+    *    Integrated Development Environment (**IDE**): Use IntelliJ IDEA, Eclipse, or NetBeans.
 
 To get started with the platform, follow these steps : 
 
